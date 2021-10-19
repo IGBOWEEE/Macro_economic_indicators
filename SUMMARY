@@ -1,2 +1,3 @@
 # Macro-economic-indicators
 This is a project which uses some Nigerian macro-economic indicators to demonstrate competence in ETL processes within MySQL and analytical processes in Python.
+Data was extracted from the central bank website, cleaned in excel, transformed and joined in MySQL
